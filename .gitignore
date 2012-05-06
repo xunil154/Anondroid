@@ -1,0 +1,6 @@
+# Ignore pdflatex output
+##########################
+*.aux
+*.toc
+*.log
+*.out
