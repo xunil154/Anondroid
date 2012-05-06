@@ -4,3 +4,7 @@
 *.toc
 *.log
 *.out
+
+# Ignore vim stuff
+##################
+*.swp
